@@ -1,4 +1,4 @@
-# Privacy Policy for DevilPicker
+# Privacy Policy for Devil Picker
 
 DevilPicker does not collect, store, or share any personal data from its users. 
 
